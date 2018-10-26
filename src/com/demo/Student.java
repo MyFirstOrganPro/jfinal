@@ -1,5 +1,10 @@
 package com.demo;
-
+/***
+ * s2018年10月26日15:40:31
+ * @author 橙色
+ *有个哥哥
+ *水电费水电费水电费水电费是
+ */
 public class Student {
 	private String no;//学号
 	private String name;//姓名
